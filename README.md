@@ -6,6 +6,10 @@ included in a large set of modules.
 All documentation and the issue tracking can be found in our main repository
 here: <https://github.com/EVerest/everest>
 
+
+## Plug & Charge simulator
+
+For a guided walkthrough that launches the Plug & Charge EV simulator, see the [Plug & Charge Simulator Quickstart](doc/pnc-simulator-quickstart.md).
 ## Prerequisites
 
 ### Hardware recommendations
